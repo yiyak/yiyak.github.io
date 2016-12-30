@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gitniu.github.io/a-page/</loc>
+    
+    <lastmod>2016-12-30T21:17:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gitniu.github.io/hello-world/</loc>
     
     <lastmod>2016-12-30T16:46:17.000Z</lastmod>
